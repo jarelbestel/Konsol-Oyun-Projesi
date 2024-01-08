@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konsol Oyun Projesi", "Konsol Oyun Projesi\Konsol Oyun Projesi.csproj", "{ACA961EA-01A5-44B8-918F-A0B66C1DB952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA961EA-01A5-44B8-918F-A0B66C1DB952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA961EA-01A5-44B8-918F-A0B66C1DB952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA961EA-01A5-44B8-918F-A0B66C1DB952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA961EA-01A5-44B8-918F-A0B66C1DB952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66CC0B7E-6B52-4B82-9C8A-C17D653AF393}
+	EndGlobalSection
+EndGlobal
